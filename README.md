@@ -3,6 +3,10 @@
 This project is a simple calculator web application built for a university homework assignment. It provides users with a clean and user-friendly interface for performing basic arithmetic operations. The web app was developed using HTML, CSS, and JavaScript, with the help of a modern vibe coding tool, **Cursor**.
 
 ---
+## Screenshot
+
+![Calculator App Screenshot](screenshot.png)
+
 
 ## Features
 
