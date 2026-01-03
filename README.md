@@ -73,4 +73,10 @@ This calculator was made as a university homework project to practice building i
 
 ---
 
+## 🐳 Docker Usage
 
+This project is a static web application.
+
+### Build Docker Image
+```bash
+docker build -t vibe-calculator .
